@@ -1,0 +1,11 @@
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\bin\Debug\counter 1-9 5x5 turla.exe.config
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\bin\Debug\counter 1-9 5x5 turla.exe
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\bin\Debug\counter 1-9 5x5 turla.pdb
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\bin\Debug\counter 1-9 5x5 turla.xml
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter 1-9 5x5 turla.vbprojAssemblyReference.cache
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter_1_9_5x5_turla.Form1.resources
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter_1_9_5x5_turla.Resources.resources
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter 1-9 5x5 turla.vbproj.GenerateResource.cache
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter 1-9 5x5 turla.exe
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter 1-9 5x5 turla.xml
+C:\Users\Jopolo Camcam\Desktop\School\5th Year\2nd sem\Elect 3\counter 1-9 5x5 turla\counter 1-9 5x5 turla\obj\Debug\counter 1-9 5x5 turla.pdb
